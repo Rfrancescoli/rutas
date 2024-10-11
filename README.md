@@ -2,6 +2,7 @@
 ## Subtitulo
 ### Párrafo
 
+> [!NOTE]
 > Este es el texto de la nota
 
 ![Programador](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg)
