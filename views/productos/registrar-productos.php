@@ -1,0 +1,1 @@
+<h1>Registrar Productos</h1>
