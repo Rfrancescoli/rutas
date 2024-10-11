@@ -12,6 +12,9 @@
   <link rel="stylesheet" href="<?= SERVERURL ?>plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?= SERVERURL ?>dist/css/adminlte.min.css">
+  <!-- Estilos personalizados -->
+  <link rel="stylesheet" href="<?= SERVERURL ?>dist/css/estilos.css">
+
 </head>
 
 <body class="hold-transition sidebar-mini">
